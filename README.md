@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everyone 😸
+- My name is Nivaldo Jr. I'm studying the last period of Systems Analysis and Development.🖱️
+- I am currently focused on Java Spring Boot studies 💻
+- As for other hobbies, I like playing the guitar and playing fps. 🎸🎮
+
 
 <!--
 **nivaldodev/nivaldodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
