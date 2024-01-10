@@ -5,8 +5,8 @@
 - As for other hobbies, I like playing the guitar and playing fps. 🎸🎮
 
 <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivaldodev&count_private=true&show_icons=true&theme=github_dark"/>
-    <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivaldodev&layout=compact&hide=hack&show_icons=true&theme=github_dark" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nivaldodev&count_private=true&show_icons=true&theme=github_dark"/>
+    <img height="130em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivaldodev&layout=compact&hide=hack&show_icons=true&theme=github_dark" />
   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=nivaldodev&theme=github-dark&fire=EB0B0B&ring=4C8EDA&border=D3D2D2&stroke=D3D2D2&dates=E7E8E8&sideLabels=C3D1D9&sideNums=58A6FE
 </div>
 
